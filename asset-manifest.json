@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/react-characters-admin/static/css/main.89424208.chunk.css",
-    "main.js": "/react-characters-admin/static/js/main.fb34725a.chunk.js",
-    "main.js.map": "/react-characters-admin/static/js/main.fb34725a.chunk.js.map",
+    "main.js": "/react-characters-admin/static/js/main.89c1f2e1.chunk.js",
+    "main.js.map": "/react-characters-admin/static/js/main.89c1f2e1.chunk.js.map",
     "runtime-main.js": "/react-characters-admin/static/js/runtime-main.fdef6668.js",
     "runtime-main.js.map": "/react-characters-admin/static/js/runtime-main.fdef6668.js.map",
     "static/js/2.95ce8e67.chunk.js": "/react-characters-admin/static/js/2.95ce8e67.chunk.js",
     "static/js/2.95ce8e67.chunk.js.map": "/react-characters-admin/static/js/2.95ce8e67.chunk.js.map",
     "index.html": "/react-characters-admin/index.html",
-    "precache-manifest.dba2a786e5f3c01bf88cc84c2942851b.js": "/react-characters-admin/precache-manifest.dba2a786e5f3c01bf88cc84c2942851b.js",
+    "precache-manifest.0f309fabf1b63a4a9f8c336598fa20ca.js": "/react-characters-admin/precache-manifest.0f309fabf1b63a4a9f8c336598fa20ca.js",
     "service-worker.js": "/react-characters-admin/service-worker.js",
     "static/css/main.89424208.chunk.css.map": "/react-characters-admin/static/css/main.89424208.chunk.css.map"
   },
@@ -16,6 +16,6 @@
     "static/js/runtime-main.fdef6668.js",
     "static/js/2.95ce8e67.chunk.js",
     "static/css/main.89424208.chunk.css",
-    "static/js/main.fb34725a.chunk.js"
+    "static/js/main.89c1f2e1.chunk.js"
   ]
 }
