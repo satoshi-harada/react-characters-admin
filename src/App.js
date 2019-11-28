@@ -27,6 +27,8 @@ class App extends Component {
 
     return (
       <div className="container">
+        <h1>React Characters Admin</h1>
+        <p>チームメンバーを管理するReactアプリ</p>
         <Table characterData={characters} removeCharacter={this.removeCharacter}/>
         <Form handleSubmit={this.handleSubmit}/>
       </div>
